@@ -42067,7 +42067,7 @@ if(n==null)n=0
 m=o.h(0,"expense")
 q+=n-(m==null?0:m)}return q},
 ND(){var s=this.a.f
-switch((s==null?B.dw:s).a){case 1:return new A.yx(16,12,16,16,90)
+switch((s==null?B.dw:s).a){case 1:return new A.yx(16,12,16,14,90)
 case 2:return new A.yx(15,10,12,12,70)
 case 0:return new A.yx(14,10,14,14,80)}},
 Cy(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=this.ND()
